@@ -23,7 +23,7 @@ repository               : "yuanyao22/yuanyao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yuanyaoWithCat.png"
+  avatar           : "profile.png"
   name             : "Yuan Yao"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral scholar at UCLA Field School of Public Health"
