@@ -23,4 +23,4 @@ This coverage brings important attention to our research findings on the environ
 
 ## Related Research
 
-This media coverage is based on our publication: [Fine particulate matter emissions from electric vehicle fast charging stations]({{ site.baseurl }}/publication/2025-06-03-ev-charging-pm-emissions) published in *Environment International*.
+This media coverage is based on our publication: [Fine particulate matter emissions from electric vehicle fast charging stations]({{ site.baseurl }}/yuanyao.github.io/publication/2025-06-03-ev-charging-pm-emissions) published in *Environment International*.
