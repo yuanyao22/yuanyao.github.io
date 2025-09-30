@@ -3,7 +3,7 @@ title: "Transcriptional pathways of elevated fasting blood glucose associated wi
 collection: publications
 category: manuscripts
 permalink: /publication/2022-02-12-ultrafine-particles-glucose
-excerpt: 'This panel study investigates transcriptional pathways of elevated fasting blood glucose associated with ultrafine particle exposure in Beijing.'
+excerpt: 'This study shows robust associations between short-term ultrafine particle exposure and elevated fasting blood glucose, revealing transcriptional pathways involving metabolism, immune response, DNA damage, and apoptosis. It provides novel mechanistic evidence linking ambient particles to metabolic dysregulation.'
 date: 2022-02-12
 venue: 'Journal of Hazardous Materials'
 paperurl: 'https://doi.org/10.1016/j.jhazmat.2022.128486'
