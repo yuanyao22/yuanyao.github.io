@@ -3,7 +3,7 @@ title: "Fine particulate matter emissions from electric vehicle fast charging st
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-03-ev-charging-pm-emissions
-excerpt: 'This study investigates fine particulate matter emissions from electric vehicle fast charging stations.'
+excerpt: 'This work reveals fine particulate matter emissions from EV fast-charging power cabinets, with concentrations exceeding WHO guidelines. By identifying particle resuspension as a potential mechanism, the study advances understanding of non-exhaust pollution sources in electrification infrastructure and highlights critical implications for exposure assessment and environmental health research.'
 date: 2025-06-03
 venue: 'Environment International'
 paperurl: 'https://doi.org/10.1016/j.envint.2025.109581'
