@@ -3,7 +3,7 @@ title: "Neuroendocrine stress hormones associated with short-term exposure to ni
 collection: publications
 category: manuscripts
 permalink: /publication/2022-09-15-neuroendocrine-stress-hormones
-excerpt: 'This panel study examines neuroendocrine stress hormones associated with air pollution exposure in Beijing residents with and without COPD.'
+excerpt: 'This panel study links short-term nitrogen dioxide and fine particulate matter exposure to neuroendocrine stress hormone changes, advancing mechanistic understanding of air pollution health effects. Findings highlight differential responses in COPD versus non-COPD participants, offering novel evidence of stress-axis dysregulation as a pathway for pollution-related disease.'
 date: 2022-09-15
 venue: 'Environmental Pollution'
 paperurl: 'https://doi.org/10.1016/j.envpol.2022.119822'
