@@ -3,7 +3,7 @@ title: "Fine and ultrafine particle concentrations in a cannabis consumption lou
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-14-cannabis-lounge-particles
-excerpt: 'This study investigates fine and ultrafine particle concentrations in a cannabis consumption lounge.'
+excerpt: 'This study provides the first detailed assessment of fine and ultrafine particle concentrations in a cannabis consumption lounge. Findings highlight significant secondhand exposure risks, advancing indoor air pollution research and filling a key gap in understanding cannabis-related aerosol dynamics.'
 date: 2025-01-14
 venue: 'Environmental Science & Technology Letters'
 paperurl: 'https://pubs.acs.org/doi/full/10.1021/acs.estlett.4c01019'
