@@ -3,7 +3,7 @@ title: "Equitable energy transitions for a healthy future: Combating air polluti
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-28-equitable-energy-transitions
-excerpt: 'This paper advances the field by framing energy transitions as both climate and health interventions, linking exposure science, equity, and policy. It provides a novel, interdisciplinary lens to quantify co-benefits and guide equitable strategies for sustainable development.
+excerpt: 'This paper advances the field by framing energy transitions as both climate and health interventions, linking exposure science, equity, and policy. It provides a novel, interdisciplinary lens to quantify co-benefits and guide equitable strategies for sustainable development.'
 date: 2025-03-28
 venue: 'British Medical Journal (The BMJ)'
 paperurl: 'https://www.bmj.com/content/388/bmj-2025-084352'
