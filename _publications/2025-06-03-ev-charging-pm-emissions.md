@@ -2,9 +2,9 @@
 title: "Fine particulate matter emissions from electric vehicle fast charging stations"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-01-01-ev-charging-pm-emissions
+permalink: /publication/2025-06-03-ev-charging-pm-emissions
 excerpt: 'This study investigates fine particulate matter emissions from electric vehicle fast charging stations.'
-date: 2025-01-01
+date: 2025-06-03
 venue: 'Environment International'
 paperurl: 'https://doi.org/10.1016/j.envint.2025.109581'
 citation: 'Yao, Y., Niu, M., Chen, H., Yu, Q., Wu, Q., Li, Y., Zhang, Y., Ozcan, A., Jerrett, M., & Zhu, Y. (2025). Fine particulate matter emissions from electric vehicle fast charging stations. <i>Environment International</i>, 201, 109581.'
