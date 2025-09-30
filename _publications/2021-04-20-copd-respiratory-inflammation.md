@@ -3,7 +3,7 @@ title: "Susceptibility of individuals with chronic obstructive pulmonary disease
 collection: publications
 category: manuscripts
 permalink: /publication/2021-04-20-copd-respiratory-inflammation
-excerpt: 'This panel study examines the susceptibility of COPD patients to respiratory inflammation from short-term air pollution exposure in Beijing.'
+excerpt: 'This study shows that COPD patients mount amplified respiratory inflammatory responses to short-term air pollution, revealing biological mechanisms of heightened vulnerability. Findings provide critical evidence for precision public health, guiding protective standards and interventions for susceptible populations in polluted urban environments.'
 date: 2021-04-20
 venue: 'Science of the Total Environment'
 paperurl: 'https://doi.org/10.1016/j.scitotenv.2020.142639'
