@@ -3,7 +3,7 @@ title: "Differences in transcriptome response to air pollution exposure between 
 collection: publications
 category: manuscripts
 permalink: /publication/2021-08-15-transcriptome-copd-air-pollution
-excerpt: 'This panel study examines differences in transcriptome response to air pollution between residents with and without COPD in Beijing.'
+excerpt: 'This study provides the first transcriptome-wide comparison of PM2.5 responses between COPD patients and healthy adults. It identifies distinct molecular pathways—including Notch signaling and oxidative stress—advancing mechanistic understanding of pollution susceptibility and gene–environment interactions.'
 date: 2021-08-15
 venue: 'Journal of Hazardous Materials'
 paperurl: 'https://doi.org/10.1016/j.jhazmat.2021.125790'
