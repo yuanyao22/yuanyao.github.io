@@ -11,7 +11,7 @@ tags:
 
 Our research on electric vehicle fast charging stations and pollution has been featured in Science Blog.
 
-<img src="{{ base_path }}/yuanyao.github.io/images/news_5.png" alt="News coverage image" style="width: 100%; max-width: 1000px; height: auto; margin-bottom: 20px;">
+<img src="{{ base_path }}/yuanyao.github.io/images/news_5.jpg" alt="News coverage image" style="width: 100%; max-width: 1000px; height: auto; margin-bottom: 20px;">
 
 ## Media Coverage
 

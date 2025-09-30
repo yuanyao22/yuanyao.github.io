@@ -11,7 +11,7 @@ tags:
 
 Our team's air quality monitoring efforts in western L.A. County have been featured in UCLA Newsroom as part of fire recovery initiatives.
 
-<img src="{{ base_path }}/yuanyao.github.io/images/news_3.png" alt="News coverage image" style="width: 100%; max-width: 1000px; height: auto; margin-bottom: 20px;">
+<img src="{{ base_path }}/yuanyao.github.io/images/news_3.jpg" alt="News coverage image" style="width: 100%; max-width: 1000px; height: auto; margin-bottom: 20px;">
 
 ## Media Coverage
 

@@ -10,7 +10,7 @@ tags:
 
 Our UCLA team's air quality monitoring network installation in West LA has been featured in Palisades News.
 
-<img src="{{ base_path }}/yuanyao.github.io/images/news_4.png" alt="News coverage image" style="width: 100%; max-width: 1000px; height: auto; margin-bottom: 20px;">
+<img src="{{ base_path }}/yuanyao.github.io/images/news_4.jpg" alt="News coverage image" style="width: 100%; max-width: 1000px; height: auto; margin-bottom: 20px;">
 
 ## Media Coverage
 
