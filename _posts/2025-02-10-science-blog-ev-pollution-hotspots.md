@@ -1,6 +1,6 @@
 ---
-title: 'Media Coverage: EV Fast Chargers Create Pollution Hot Spots'
-date: 2025-02-10
+title: 'Science Blog: EV Fast Chargers Create Pollution Hot Spots'
+date: 2025-07-06
 permalink: /posts/2025/02/science-blog-ev-pollution-hotspots/
 tags:
   - air pollution
@@ -19,7 +19,7 @@ Our research on electric vehicle fast charging stations and pollution has been f
 
 **Article:** [EV Fast Chargers Create Pollution Hot Spots](https://scienceblog.com/ev-fast-chargers-create-pollution-hot-spots/)
 
-**Published:** February 10, 2025
+**Published:** July 6, 2025
 
 This coverage brings attention to the unexpected environmental implications of electric vehicle charging infrastructure and the importance of understanding localized pollution effects.
 
