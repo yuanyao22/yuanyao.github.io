@@ -1,6 +1,6 @@
 ---
-title: 'Media Coverage: UCLA-led team installs air quality monitoring network in western L.A. County as part of fire recovery efforts'
-date: 2025-01-15
+title: 'UCLA Newsroom: UCLA-led team installs air quality monitoring network in western L.A. County as part of fire recovery efforts'
+date: 2025-7-23
 permalink: /posts/2025/01/ucla-air-quality-monitoring-fire-recovery/
 tags:
   - air quality monitoring
@@ -19,7 +19,7 @@ Our team's air quality monitoring efforts in western L.A. County have been featu
 
 **Article:** [UCLA-led team installs air quality monitoring network in western L.A. County as part of fire recovery efforts](https://newsroom.ucla.edu/releases/ucla-air-quality-monitoring-network-west-los-angeles-fire-recovery?utm_campaign=manual&utm_medium=trueAnthem&utm_source=linkedin)
 
-**Published:** January 15, 2025
+**Published:** July 23, 2025
 
 This coverage showcases our team's proactive response to environmental health challenges in fire-affected areas and our commitment to monitoring air quality for community health and recovery efforts.
 
