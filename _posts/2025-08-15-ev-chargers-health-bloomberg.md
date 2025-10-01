@@ -1,5 +1,5 @@
 ---
-title: 'Media Coverage: EV Fast Chargers Have a Surprising Health Downside'
+title: 'Bloomberg: EV Fast Chargers Have a Surprising Health Downside'
 date: 2025-08-15
 permalink: /posts/2025/08/ev-chargers-health-bloomberg/
 tags:
