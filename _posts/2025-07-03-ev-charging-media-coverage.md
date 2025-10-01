@@ -1,5 +1,5 @@
 ---
-title: 'Media Coverage: High Levels of Particulate Matter Found Near Electric Vehicle Charging Stations in L.A.'
+title: 'U.S. News & World Report: High Levels of Particulate Matter Found Near Electric Vehicle Charging Stations in L.A.'
 date: 2025-07-03
 permalink: /posts/2025/07/ev-charging-media-coverage/
 tags:
