@@ -1,5 +1,5 @@
 ---
-title: 'Media Coverage: UCLA Report - Standing Homes Air Quality Worsened Over Time in Wildfire Areas'
+title: 'UCLA Report: Standing Homes Air Quality Worsened Over Time in Wildfire Areas'
 date: 2026-01-02
 permalink: /posts/2026/01/ucla-report-wildfire-air-quality/
 tags:

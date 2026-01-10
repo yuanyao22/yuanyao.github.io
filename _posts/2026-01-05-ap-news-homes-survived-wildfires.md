@@ -1,5 +1,5 @@
 ---
-title: 'Media Coverage: Their homes survived the historic LA area wildfires, but a year later they fear living in them'
+title: 'Associated Press: Their homes survived the historic LA area wildfires, but a year later they fear living in them'
 date: 2026-01-05
 permalink: /posts/2026/01/ap-news-homes-survived-wildfires/
 tags:
