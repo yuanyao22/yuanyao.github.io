@@ -29,5 +29,5 @@ This research demonstrates that wildfire smoke impacts on indoor air quality can
 
 This research has received significant media attention highlighting the unexpected persistence of indoor air quality issues after wildfires:
 
-- Featured in major outlets including Bloomberg, U.S. News & World Report, and UCLA Newsroom
+- Featured in major outlets including Associated Press, Los Angeles Daily News, and UCLA Newsroom
 - Contributed to public understanding of post-wildfire health risks and recovery planning
