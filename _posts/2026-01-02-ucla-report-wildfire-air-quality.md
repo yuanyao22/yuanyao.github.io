@@ -1,5 +1,5 @@
 ---
-title: 'UCLA Report: Standing Homes Air Quality Worsened Over Time in Wildfire Areas'
+title: 'Los Angeles Daily News: Standing Homes Air Quality Worsened Over Time in Wildfire Areas'
 date: 2026-01-02
 permalink: /posts/2026/01/ucla-report-wildfire-air-quality/
 tags:
@@ -10,7 +10,7 @@ tags:
   - Los Angeles
 ---
 
-Our UCLA research on indoor and outdoor volatile organic compounds (VOCs) during and after the 2025 Los Angeles wildfires has been featured in the Daily News.
+Our UCLA research on indoor and outdoor volatile organic compounds (VOCs) during and after the 2025 Los Angeles wildfires has been featured in the Los Angeles Daily News.
 
 <img src="{{ base_path }}/yuanyao.github.io/images/news_6.png" alt="News coverage image" style="width: 100%; max-width: 1000px; height: auto; margin-bottom: 20px;">
 
