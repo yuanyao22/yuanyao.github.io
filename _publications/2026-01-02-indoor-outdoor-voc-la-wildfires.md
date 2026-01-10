@@ -1,5 +1,5 @@
 ---
-title: "Indoor and Outdoor Volatile Organic Compound Levels during and after the 2025 Los Angeles Wildfires"
+title: "Indoor and outdoor volatile organic compound levels during and after the 2025 Los Angeles wildfires"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-01-02-indoor-outdoor-voc-la-wildfires
