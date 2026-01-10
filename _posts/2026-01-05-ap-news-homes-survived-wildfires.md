@@ -15,7 +15,7 @@ Our UCLA research on volatile organic compounds (VOCs) after the 2025 Los Angele
 
 <img src="{{ base_path }}/yuanyao.github.io/images/news_7.png" alt="News coverage image" style="width: 100%; max-width: 1000px; height: auto; margin-bottom: 20px;">
 
-## Media Coverage
+## Associated Press
 
 **Associated Press** published an in-depth report on the continuing health risks for Altadena and Palisades residents living in homes that survived the wildfires but were contaminated by smoke, ash, and toxic materials.
 

@@ -14,9 +14,9 @@ Our UCLA research on indoor and outdoor volatile organic compounds (VOCs) during
 
 <img src="{{ base_path }}/yuanyao.github.io/images/news_6.png" alt="News coverage image" style="width: 100%; max-width: 1000px; height: auto; margin-bottom: 20px;">
 
-## Media Coverage
+## Los Angeles Daily News
 
-**Daily News** published an article highlighting our findings that homes which survived the Eaton and Palisades fires but were exposed to ash or smoke saw worsening air quality over time.
+**Los Angeles Daily News** published an article highlighting our findings that homes which survived the Eaton and Palisades fires but were exposed to ash or smoke saw worsening air quality over time.
 
 **Article:** [UCLA report: Standing homes air quality worsened over time in wildfire areas](https://www.dailynews.com/2026/01/02/ucla-report-standing-homes-air-quality-worsened-over-time-in-wildfire-areas/)
 

@@ -6,7 +6,6 @@ permalink: /publication/2026-01-02-indoor-outdoor-voc-la-wildfires
 excerpt: 'This study examined indoor and outdoor volatile organic compound (VOC) concentrations during and after the 2025 Los Angeles wildfires, finding elevated indoor VOC levels in fire-affected homes even after outdoor fires were contained.'
 date: 2026-01-02
 venue: 'Environmental Science & Technology Letters'
-slidesurl: ''
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.estlett.5c00919'
 citation: 'Yao, Y., Garcia-Gonzales, D., Li, J., Niu, M., Nie, Q., Jerrett, M., & Zhu, Y. (2026). Indoor and Outdoor Volatile Organic Compound Levels during and after the 2025 Los Angeles Wildfires. <i>Environmental Science & Technology Letters</i>. https://doi.org/10.1021/acs.estlett.5c00919'
 ---
