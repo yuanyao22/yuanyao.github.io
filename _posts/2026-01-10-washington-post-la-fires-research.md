@@ -1,6 +1,6 @@
 ---
-title: 'Media Coverage: The L.A. fires gave us an unprecedented look at the danger of urban blazes'
-date: 2026-01-10
+title: 'The Washington Post: The L.A. fires gave us an unprecedented look at the danger of urban blazes'
+date: 2026-01-11
 permalink: /posts/2026/01/washington-post-la-fires-research/
 tags:
   - wildfires
@@ -21,7 +21,7 @@ Our UCLA team's rapid-response research on the 2025 Los Angeles wildfires has be
 
 **Article:** [The L.A. fires gave us an unprecedented look at the danger of urban blazes](https://www.washingtonpost.com/weather/2026/01/10/los-angeles-fires-research-toxins-health/)
 
-**Published:** January 10, 2026  
+**Published:** January 11, 2026  
 **Author:** Ruby Mellen
 
 ## Rapid Response Research
