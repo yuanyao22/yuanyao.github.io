@@ -7,7 +7,7 @@ excerpt: 'This study examined indoor and outdoor volatile organic compound (VOC)
 date: 2026-01-02
 venue: 'Environmental Science & Technology Letters'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.estlett.5c00919'
-citation: 'Yao, Y., Garcia-Gonzales, D., Li, J., Niu, M., Nie, Q., Jerrett, M., & Zhu, Y. (2026). Indoor and Outdoor Volatile Organic Compound Levels during and after the 2025 Los Angeles Wildfires. <i>Environmental Science & Technology Letters</i>, 13, 70–75'
+citation: 'Yao, Y., Garcia-Gonzales, D., Li, J., Niu, M., Nie, Q., Jerrett, M., & Zhu, Y. (2026). Indoor and Outdoor Volatile Organic Compound Levels during and after the 2025 Los Angeles Wildfires. <i>Environmental Science & Technology Letters</i>, 13, 70–75.'
 ---
 
 ## Abstract
