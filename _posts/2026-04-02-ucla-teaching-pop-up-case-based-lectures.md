@@ -1,6 +1,6 @@
 ---
 title: '10+10 Pop-Up Series: Using Case-Based Guest Lectures to Promote Real-World Application'
-date: 2026-04-02
+date: 2026-04-07
 permalink: /posts/2026/04/ucla-teaching-pop-up-case-based-lectures/
 tags:
   - teaching
