@@ -7,7 +7,7 @@ excerpt: 'This study focuses on identifying specific ambient temperature thresho
 date: 2026-04-01
 venue: 'Journal of Environmental Sciences'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1001074226002640'
-citation: 'Chen, X., Yao, Y., Wang, T., Chen, W., Qiu, X., & Zhu, T. (2026). High-impact temperature cutoff values for transcriptome regulation in the elderly in Beijing, China. <i>Journal of Environmental Sciences</i>.'
+citation: 'Chen, X., Yao, Y.(co-first), Wang, T., Chen, W., Qiu, X., & Zhu, T. (2026). High-impact temperature cutoff values for transcriptome regulation in the elderly in Beijing, China. <i>Journal of Environmental Sciences</i>.'
 ---
 
 ## Abstract
