@@ -4,10 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-04-01-high-impact-temperature-cutoff
 excerpt: 'This study focuses on identifying specific ambient temperature thresholds (cutoff values) that trigger significant changes in the gene expression (transcriptome) of elderly residents in Beijing.'
-date: 2026-04-01
+date: 2026-04-15
 venue: 'Journal of Environmental Sciences'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1001074226002640'
-citation: 'Chen, X., Yao, Y.(co-first), Wang, T., Chen, W., Qiu, X., & Zhu, T. (2026). High-impact temperature cutoff values for transcriptome regulation in the elderly in Beijing, China. <i>Journal of Environmental Sciences</i>.'
+citation: 'Chen, X., Yao, Y. (co-first), Wang, T., Chen, W., Qiu, X., & Zhu, T. (2026). High-impact temperature cutoff values for transcriptome regulation in the elderly in Beijing, China. <i>Journal of Environmental Sciences</i>.'
 ---
 
 ## Abstract
