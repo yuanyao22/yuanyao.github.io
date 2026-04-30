@@ -1,5 +1,5 @@
 ---
-title: "Fine particulate matter emissions from electric vehicle fast charging stations (recipient of the Environment International 2025 Most Downloaded Paper Award)"
+title: "Fine particulate matter emissions from electric vehicle fast charging stations (Environment International 2025 Most Downloaded Paper Award)"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-03-ev-charging-pm-emissions
