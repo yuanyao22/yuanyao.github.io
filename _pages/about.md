@@ -13,20 +13,20 @@ My research focuses on the intersection of air pollution, climate change, and hu
 
 Honors and Awards
 
-2026	Young Investigator Meeting Award, International Society of Exposure Science
+2026	  Young Investigator Meeting Award, International Society of Exposure Science
 
-2025	Most Downloaded Paper Award, Environment International
+2025	  Most Downloaded Paper Award, Environment International
 
-2022	Outstanding Graduate Award, Peking University
+2022	  Outstanding Graduate Award, Peking University
 
-2022	Tang Xiaoyan Scholarship in Environmental Science and Innovation, China
+2022	  Tang Xiaoyan Scholarship in Environmental Science and Innovation, China
 
-2021	Chancellor’s Scholarship, Peking University
+2021	  Chancellor’s Scholarship, Peking University
 
-2019	Special Prize, National Graduate Student Environment Forum, China
+2019	  Special Prize, National Graduate Student Environment Forum, China
 
-2019	Future Scientist Award, National Environmental Conference for Doctoral Students, China
+2019	  Future Scientist Award, National Environmental Conference for Doctoral Students, China
 
-2014	National Scholarship, Ministry of Education of China
+2014	  National Scholarship, Ministry of Education of China
 
 <img src="{{ base_path }}/yuanyao.github.io/images/homepage.jpg" alt="Homepage image" style="width: 100%; max-width: 1366.67px; height: auto; margin-bottom: 20px;">
