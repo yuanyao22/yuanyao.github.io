@@ -20,10 +20,7 @@ My research focuses on the intersection of air pollution, climate change, and hu
 2019	Special Prize, China National Graduate Student Environment Forum  
 2019	Future Scientist Award, China National Environmental Conference for Doctoral Students  
 2014	National Scholarship, Ministry of Education of China  
-![Uploading image.png…]()
 
-
-![Uploading image.png…]()
   
 
 <img src="{{ base_path }}/yuanyao.github.io/images/homepage.jpg" alt="Homepage image" style="width: 100%; max-width: 1366.67px; height: auto; margin-bottom: 20px;">
