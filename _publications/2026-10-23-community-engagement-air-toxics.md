@@ -12,8 +12,6 @@ citation: 'Yao, Y. (2026). Integrating community engagement into air toxics rese
 
 ## Abstract
 
-*Summary of the [published commentary](https://doi.org/10.1038/s41370-026-00996-y), which has no separate abstract.*
-
 This commentary examines how community collaboration can strengthen air toxics research near industrial facilities. Drawing on a Philadelphia VOC monitoring study, it discusses community-informed sampling and challenges in identifying pollution sources. It recommends more detailed monitoring, broader exposure assessment, and sustained resident participation to improve the relevance and communication of research.
 
 ## Key Findings
