@@ -37,9 +37,14 @@ The header links are defined in `_data/navigation.yml`, in this order: **Publica
 - Use the journal's full name in `venue`. `paperurl` should point to the DOI resolver or publisher page.
 - Match the existing citation style: `Yao, Y. (2026). Article title. <i>Journal Name</i>.` Preserve author order, any verified `(co-first)` designation, and available volume/page/article details. Omit unavailable bibliographic details. Existing publication citations do not bold the author's name.
 - Keep journal italics as `<i>...</i>` inside the quoted YAML citation. The template displays the venue/year, excerpt, recommended citation, and a **Download Paper** link.
-- Start the body with a brief description. Use **Highlights:** with bullet points for verified invitations, awards, or coverage. Longer entries may use `## Abstract`, `## Key Findings`, `## Public Health Significance`, and `## Media Coverage` when supported by source material.
+- New publication bodies must follow the fuller recent-entry format: `## Abstract`, then `## Key Findings` with descriptive bold labels on the bullets. Read the linked paper before drafting these sections; a short excerpt and **Highlights:** alone are not sufficient. Add `## Public Health Significance` and `## Media Coverage` when relevant and supported by source material. Use **Highlights:** for verified invitations, awards, or coverage in addition to the abstract and key findings.
+- If a commentary or other article has no formal abstract, retain `## Abstract` for site consistency but explicitly label the text as a summary of the published article and link to it. Distinguish the commentary's recommendations from empirical findings of studies it discusses; do not imply that the commentary generated those data.
 - For the 2026 community-engagement paper, retain the exact note **Invited by the Editor-in-Chief.** in the excerpt and highlights. Crossref records its online publication date as October 23, 2026, for DOI `10.1038/s41370-026-00996-y`.
 - Do not fabricate abstracts, impact factors, volume numbers, pages, or media coverage. A publication update does not automatically require editing the separately maintained CV PDF or adding a news post.
+
+#### Recorded mistake and user correction (October 24, 2026)
+
+The initial community-engagement entry copied the abbreviated format of older publications and omitted **Abstract** and **Key Findings**, despite the fuller examples in the recent 2026 entries. The initial version of this guide also incorrectly described those sections as optional. The user explicitly corrected this: include both sections for new publications and follow the recent detailed entries, not the shortest older example. Before considering an entry complete, check its body structure as well as its front matter, and ensure every finding or recommendation is supported by the paper.
 
 ### Projects
 
