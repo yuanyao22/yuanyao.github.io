@@ -12,7 +12,8 @@ My research focuses on the intersection of air pollution, climate change, and hu
 
 
 **Honors and Awards**  
-2026	Young Investigator Meeting Award, International Society of Exposure Science  
+2026	Young Investigator Meeting Award, International Society of Exposure Science
+2026  Chancellor’s Award for Postdoctoral Research, UCLA
 2025	Environment International Most Downloaded Paper Award, Elsevier  
 2022	Outstanding Graduate Award, Peking University  
 2022	Tang Xiaoyan Scholarship in Environmental Science and Innovation  
