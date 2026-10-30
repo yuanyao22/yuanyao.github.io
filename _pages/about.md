@@ -17,7 +17,7 @@ My research focuses on the intersection of air pollution, climate change, and hu
 2025	Environment International Most Downloaded Paper Award, Elsevier  
 2022	Outstanding Graduate Award, Peking University  
 2022	Tang Xiaoyan Scholarship in Environmental Science and Innovation  
-2021	Chancellor’s Scholarship, Peking University  
+2021	Chancellor’s Scholarship for Doctoral Research, Peking University  
 2019	Special Prize, China National Graduate Student Environment Forum  
 2019	Future Scientist Award, China National Environmental Conference for Doctoral Students  
 2014	National Scholarship, Ministry of Education of China  
