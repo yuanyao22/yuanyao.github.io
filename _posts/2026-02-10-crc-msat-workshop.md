@@ -11,7 +11,7 @@ tags:
   - air quality
 ---
 
-Dr. Yuan Yao gave a presentation titled "Oxidative potential of brake-wear particulate matter emissions from light-duty and heavy-duty vehicles" at the 12th CRC Mobile Source Air Toxics (MSAT) Workshop.
+Dr. Yuan Yao was invited to give a presentation titled “Oxidative potential of brake-wear particulate matter emissions from light-duty and heavy-duty vehicles” at the 12th CRC Mobile Source Air Toxics (MSAT) Workshop.
 
 ## Event Details
 
