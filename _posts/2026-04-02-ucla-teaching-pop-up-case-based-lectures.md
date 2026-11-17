@@ -10,7 +10,7 @@ tags:
   - UCLA
 ---
 
-Dr. Yuan Yao presented at the UCLA Teaching and Learning Center's 10+10 Pop-Up Series on using case-based guest lectures to connect environmental health concepts with real-world applications.
+Dr. Yuan Yao was invited to speak at the UCLA Teaching and Learning Center’s 10+10 Pop-Up Series about how case-based guest lectures can connect environmental health concepts with real-world applications.
 
 ## Event Details
 
